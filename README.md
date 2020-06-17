@@ -1,4 +1,5 @@
-# PT_30424_Badea_Cornel_Assignment_4
+# Restaurant Management System
+
 to run:
 sudo java -jar FourthProject.jar RestaurantFile.ser 
 
